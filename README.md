@@ -1,6 +1,6 @@
 **This is `README.md`**
 
-Repository [https://github.com/Ramchik007/hello_world.git]
+Repository [https://github.com/Ramchik007/hello_world]
 
 ***Done:***
 - Create empty file `index.html`
